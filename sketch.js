@@ -1,8 +1,12 @@
 var snake;
 var scl = 20;
-var gameState = true;
-
 var food;
+
+// Still needs work
+// https://forum.processing.org/two/discussion/5644/how-to-make-a-pause-screen
+var stateGame = 0;
+var statePause = 1;
+var state = statePause;
 
 //var cols = floor(width/scl);
 //var rows = floor(height/scl);
