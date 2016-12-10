@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"T",
+				"Title"
+			],
+			[
+				"m",
+				"mouseX"
+			],
+			[
+				"draw",
+				"drawMenu"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"crea",
+				"createVector"
+			],
+			[
+				"snake",
+				"snake"
+			],
+			[
+				"spli",
+				"splitStr"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"sideb",
+				"sidebar-search"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"float-",
+				"float-xs-right"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"get",
+				"get_password"
+			],
+			[
+				"time",
+				"TimeoutException"
+			],
+			[
+				"respo",
+				"responseJSON2"
+			],
+			[
+				"API",
+				"APIKey"
+			],
+			[
+				"sum",
+				"summonerNameInput"
+			],
+			[
+				"summ",
+				"summonerName"
+			],
+			[
+				"jack",
+				"jacketSoup"
+			],
+			[
+				"http",
+				"httplib2"
+			],
+			[
+				"joke",
+				"joke_evaluation"
+			],
+			[
+				"do",
+				"do_not"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cookies/Development/first_push/README.md",
+		"/Users/cookies/Library/Application Support/Kodi/userdata/playercorefactory.xml",
+		"/Users/cookies/Development/snake-game/sketch.js",
+		"/Users/cookies/Development/snake-game/snake.js",
+		"/Users/cookies/Development/snake-game/snake.html",
+		"/Users/cookies/Development/learnyounode/program.js",
+		"/Users/cookies/Development/learnyounode/http-collect/http-collect.js",
+		"/Users/cookies/Development/learnyounode/example.txt",
+		"/Users/cookies/Development/learnyounode/module.js",
+		"/Users/cookies/Development/cs50/ages.c",
+		"/Users/cookies/Development/db/bootstrap/css/dashboard.css",
+		"/Users/cookies/Development/db/index.html",
+		"/Users/cookies/Development/class/selenium_script.py",
+		"/Users/cookies/Development/Supreme/supreme2.py",
+		"/Users/cookies/Development/LoL/APIGrabber.py",
+		"/Users/cookies/Development/geckodriver",
+		"/Users/cookies/Development/ng/angular-seed/app/view1/view1.html",
+		"/Users/cookies/Development/Supreme/supreme.py",
+		"/Users/cookies/Development/ng/angular-seed/app/index.html",
+		"/Users/cookies/Development/PythonTHW/ex6.py",
+		"/Users/cookies/Development/PokemonGo-Bot/configs/config.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"defa",
+			"togg",
+			"editionb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "snake.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
